@@ -1,0 +1,8 @@
+.venv/
+*.ipynb*
+.vscode/
+sandbox/
+.env
+*~lock*
+.DS_Store
+output*
